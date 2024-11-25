@@ -1,1 +1,1 @@
-print(studentter)
+print("Бұл Оралбектің компьютері")
